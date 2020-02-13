@@ -1,5 +1,5 @@
-# hscope
-Blue Pill oscilloscoop
+# Open source oscilloscope
+Android oscilloscoop Blue Pill op basis van 32-bit ARM Cortex M0.
 
 Maklik om self te maak osciloscoop 20200213.
 
