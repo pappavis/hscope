@@ -17,7 +17,7 @@ Maklik om self te maak osciloscoop.
     <img src="https://github.com/pappavis/hscope/blob/master/plaatjes/HS101_STM32Utils.jpg?raw=true" width="60%" hieght="60%">
    </td>
    <td>
-    <img src="https://github.com/pappavis/hscope/blob/master/plaatjes/PCB-Version.jpg?raw=true" width="30%" hieght="30%">
+    <img src="https://github.com/pappavis/hscope/blob/master/plaatjes/PCB-Version.jpg?raw=true" width="80%" hieght="80%">
    </td>
  </tr>
 </table>
