@@ -3,7 +3,7 @@ Blue Pill oscilloscoop
 
 Maklik om self te maak osciloscoop.
 
-<table border="0">
+<table border="0" width="80%">
  <tr>
    <td>
     Blue pill versie
