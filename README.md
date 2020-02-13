@@ -1,7 +1,7 @@
 # hscope
 Blue Pill oscilloscoop
 
-Maklik om self te maak osciloscoop.
+Maklik om self te maak osciloscoop 20200213.
 
 <table border="0" width="80%">
  <tr>
