@@ -30,6 +30,8 @@ Maklik om self te maak osciloscoop 20200213.
  - Bandwidth 200kHzUp to 100KSa/s continuous acquisition
  - Input noise depends on the sampling rate. < 15mV for sampling rate <=100KSa/s
 
+HOWTO --> https://www.electronics-lab.com/project/hs101-high-quality-cheap-diy-oscilloscope/
+
 Credits:
  - Emmanuel Odunlade  https://twitter.com/emmaodunlade
  
