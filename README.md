@@ -3,7 +3,24 @@ Blue Pill oscilloscoop
 
 Maklik om self te maak osciloscoop.
 
-<img src="https://github.com/pappavis/hscope/blob/master/plaatjes/HS101_STM32Utils.jpg?raw=true" width="30%" hieght="30%">
+<table border="0">
+ <tr>
+   <td>
+    Blue pill versie
+   </td>
+   <td>
+     PCB in KiCAD
+   </td>
+ </tr>
+ <tr>
+   <td>
+    <img src="https://github.com/pappavis/hscope/blob/master/plaatjes/HS101_STM32Utils.jpg?raw=true" width="30%" hieght="30%">
+   </td>
+   <td>
+    Kicad
+   </td>
+ </tr>
+</table>
 
 # Kenmerke
 - Enkel kanaal Oscilloscoop
